@@ -1,0 +1,7 @@
+Battery summary derived from the unchanged data files. First/last logged values are NOT separate manual before/after measurements. Updates are periodic and held between reads.
+
+  run  first_logged_V  last_logged_V    min_V    max_V  first_to_last_percent
+ run1        11.67486       11.63599 11.63599 11.67486               -0.33297
+ run2        11.31205       11.31205 11.28613 11.32500                0.00000
+floor        11.28613       11.28613 11.28613 11.29909                0.00000
+chirp        11.63599       11.62303 11.53233 11.63599               -0.11136
